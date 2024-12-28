@@ -4,7 +4,7 @@ Name : Lavisha Ulkesh Desai <br>
 Company : CODTECH IT SOLUTIONS <br>
 ID : CT08EHV <br>
 Domain : Power BI <br>
-Duration : 17, December,2024 to 1,January ,2025 <br>
+Duration : 17, December,2024 to 17, January ,2025 <br>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objective : Create a sales performance dashboard to visualize sales data, track key performance indicators (KPIs), and analyze trends. Import sales data from a CSV or Excel file. Create visuals such as bar charts, line charts, and pie charts.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
