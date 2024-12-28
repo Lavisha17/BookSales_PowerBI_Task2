@@ -1,3 +1,12 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Name : Lavisha Ulkesh Desai
+Company : CODTECH IT SOLUTIONS
+ID : CT08EHV
+Domain : Power BI
+Duration : 17, December,2024 to 1,January ,2025
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Objective : Create a sales performance dashboard to visualize sales data, track key performance indicators (KPIs), and analyze trends. Import sales data from a CSV or Excel file. Create visuals such as bar charts, line charts, and pie charts.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📚 Book Sales Dashboard 📊
 A detailed Power BI dashboard designed to provide actionable insights into book sales trends and performance! 🚀
 
@@ -5,7 +14,7 @@ What this project offers:
 
 💰 Revenue Analysis: Understand total sales, average revenue per book, and seasonal patterns.
 🌍 Market Insights: Identify top-performing regions and customer preferences.
-🛍️ Category Breakdown: Analyze sales by genre, author, and format (e.g., hardcover, paperback, eBooks).
+🛍️ Category Breakdown: Analyze sales by genre, author.
 🔄 Time-Based Trends: Spot peak sales periods and track year-over-year growth.
 📈 Customer Behavior: Uncover insights into buying patterns and popular book categories.
 🔍 Interactive Visuals: Drill down into specific data points with dynamic charts, slicers, and filters.
