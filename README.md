@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/547a7d21-a728-41ac-8b7b-520f663e72cf)# BookSales_PowerBI_Task2
 📚 Book Sales Dashboard 📊
 A detailed Power BI dashboard designed to provide actionable insights into book sales trends and performance! 🚀
 
@@ -16,5 +15,4 @@ Trends observed in the data:
 📖 Genre Popularity: Consistently strong performance for fiction and self-help categories.
 🌟 Regional Insights: Certain regions exhibit a strong preference for eBooks over physical copies.
 📊 Growth Opportunities: Emerging trends in niche categories indicate areas for potential expansion.
-Perfect for publishers, book retailers, and analysts aiming to optimize inventory, target audiences, and boost overall sales performance! 🌟
-![Uploading Screenshot 2024-12-29 003954.png…]()
+Perfect for publishers, book retailers, and analysts aiming to optimize inventory, target audiences, and boost overall sales performance! 🌟![Screenshot 2024-12-29 003954](https://github.com/user-attachments/assets/261beacc-5075-440d-a604-e5fd15e9e8be)
