@@ -16,7 +16,8 @@ Trends observed in the data:
 🌟 Regional Insights: Certain regions exhibit a strong preference for eBooks over physical copies.
 📊 Growth Opportunities: Emerging trends in niche categories indicate areas for potential expansion.
 Perfect for publishers, book retailers, and analysts aiming to optimize inventory, target audiences, and boost overall sales performance! 
-🌟![Screenshot 2024-12-29 003954](https://github.com/user-attachments/assets/261beacc-5075-440d-a604-e5fd15e9e8be)
+🌟![Screenshot 2024-12-29 004007](https://github.com/user-attachments/assets/8e347d24-32aa-4c1c-a964-e28351a4abaa)
+
 
 
 ![Screenshot 2024-12-29 003954](https://github.com/user-attachments/assets/29c68a49-88ba-424d-a06d-3f27b9e86ffc)
