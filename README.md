@@ -1,6 +1,7 @@
+# BookSales_PowerBI_Task2
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Name : Lavisha Ulkesh Desai
-Company : CODTECH IT SOLUTIONS
+Name : Lavisha Ulkesh Desai <br>
+Company : CODTECH IT SOLUTIONS <br>
 ID : CT08EHV
 Domain : Power BI
 Duration : 17, December,2024 to 1,January ,2025
